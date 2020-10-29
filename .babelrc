@@ -1,0 +1,4 @@
+{
+    "presets": ["env"], //解析es6
+    "plugins": ["add-module-exports"]  //支持export
+}
