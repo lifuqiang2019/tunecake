@@ -22,3 +22,7 @@
 2020-10-29T11:17:01.674Z info: 已配置axios超时时间20s
 2020-10-29T11:17:01.787Z warn: 配置路由
 2020-10-29T11:17:01.818Z info: Server started on port 80
+2020-10-29T11:26:35.830Z warn: 配置跨域
+2020-10-29T11:26:35.841Z info: 已配置axios超时时间20s
+2020-10-29T11:26:35.867Z warn: 配置路由
+2020-10-29T11:26:35.934Z info: Server started on port 80
